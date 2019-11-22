@@ -1,4 +1,4 @@
-# WebAudioAPI
+## WebAudioAPI
 Simple repo for Web Audio API tutorials and research
 
 # Friday 22 Nov - Added 01-introduction section.
